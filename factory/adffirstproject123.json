@@ -1,0 +1,9 @@
+{
+	"name": "adffirstproject123",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b39ec000-2e55-4a88-9869-c8233f582140",
+		"tenantId": "5e7a57bc-de96-4022-bec6-40bca446a6b6"
+	}
+}

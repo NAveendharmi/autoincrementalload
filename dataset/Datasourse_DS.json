@@ -1,0 +1,17 @@
+{
+	"name": "Datasourse_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServer1_onprem",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "data_source_table"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,17 @@
+{
+	"name": "watermark_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServer1_onprem",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "watermarktable"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
